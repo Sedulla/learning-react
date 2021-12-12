@@ -1,0 +1,53 @@
+{
+  "pgotos": [
+    {
+      "id": 5,
+      "rating": "8.1",
+      "name": "natus nisi omnis corporis facere molestiae rerum in",
+      "overview": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non molestias culpa sequi enim repellat voluptates suscipit aliquam numquam porro? Cupiditate odio officia voluptatibus vel totam iste qui quae, voluptas laudantium? ",
+      "imageURL": "https://via.placeholder.com/600/f66b97"
+    },
+    {
+      "id": 6,
+      "rating": "8.1",
+      "name": "accusamus ea aliquid et amet sequi nemo",
+      "overview": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non molestias culpa sequi enim repellat voluptates suscipit aliquam numquam porro? Cupiditate odio officia voluptatibus vel totam iste qui quae, voluptas laudantium? ",
+      "imageURL": "https://via.placeholder.com/600/56a8c2"
+    },
+    {
+      "id": 7,
+      "rating": "8.1",
+      "name": "officia delectus consequatur vero aut veniam explicabo molestias",
+      "overview": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non molestias culpa sequi enim repellat voluptates suscipit aliquam numquam porro? Cupiditate odio officia voluptatibus vel totam iste qui quae, voluptas laudantium? ",
+      "imageURL": "https://via.placeholder.com/600/b0f7cc"
+    },
+    {
+      "id": 8,
+      "rating": "8.1",
+      "name": "aut porro officiis laborum odit ea laudantium corporis",
+      "overview": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non molestias culpa sequi enim repellat voluptates suscipit aliquam numquam porro? Cupiditate odio officia voluptatibus vel totam iste qui quae, voluptas laudantium? ",
+      "imageURL": "https://via.placeholder.com/600/54176f"
+    },
+    {
+      "id": 9,
+      "rating": "8.1",
+      "name": "qui eius qui autem sed",
+      "overview": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non molestias culpa sequi enim repellat voluptates suscipit aliquam numquam porro? Cupiditate odio officia voluptatibus vel totam iste qui quae, voluptas laudantium? ",
+      "imageURL": "https://via.placeholder.com/600/51aa97"
+    },
+    {
+      "name": "beatae et provident et ut vel",
+      "rating": "0",
+      "overview": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non molestias culpa sequi enim repellat voluptates suscipit aliquam numquam porro? Cupiditate odio officia voluptatibus vel totam iste qui quae, voluptas laudantium? ",
+      "imageURL": "https://via.placeholder.com/600/810b14",
+      "id": 10
+    },
+    {
+      "name": "s",
+      "rating": "s",
+      "imageURL": "s",
+      "overview": "s",
+      "id": 11
+    }
+  ]
+}
