@@ -1,24 +1,30 @@
-import logo from './logo.svg';
 import './App.css';
+import { Footer } from './components/Footer';
+import { Form } from './components/Form';
+import { Title } from './components/Title';
+import { TodoList } from './components/TodoList';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <>
+      <section className="todoapp">
+        <header className="header">
+          <Title />
+          <Form />
+        </header>
+        <TodoList />
+        <Footer />
+      </section>
+      <footer className="info">
+        <p>Click to edit a todo</p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          by <a href="#!">Sedulla</a>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+        <p>
+          Part of <a href="#!">Todos</a>
+        </p>
+      </footer>
+    </>
   );
 }
 
