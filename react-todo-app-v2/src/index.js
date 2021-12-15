@@ -9,8 +9,5 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// // add new todo
-// // saved todos to localStorage
-// delete todo - completed class
-// filter * 3
-// filtered map - length
+// todo: implement edit toDo
+// todo: implement filtering - all, active, completed
