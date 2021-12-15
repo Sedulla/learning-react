@@ -5,7 +5,7 @@ export const Footer = () => {
     <footer className="footer">
       <span className="todo-count">
         <strong>2</strong>
-        items left
+         items left
       </span>
 
       <ul className="filters">
